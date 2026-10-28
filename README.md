@@ -1,14 +1,8 @@
 <div align="center">
-
-  <!-- Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,40&height=180&section=header&text=Tran%20Danh%20Doanh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-
-  <!-- Animated Typing Text (ASCII-encoded for GitHub Camo) -->
   <a href="https://github.com/nhimcaptin">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=61AFEF&center=true&vCenter=true&width=550&lines=Frontend+Developer+%7C+4%2B+Years+of+Experience;ReactJS+%7C+Next.js+%7C+Angular+%7C+TypeScript" alt="Typing SVG" />
   </a>
-
-  <!-- 4 Social Badges on exactly one single line -->
   <p align="center">
     <a href="https://www.facebook.com/nhimcaptin" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
     <a href="https://linkedin.com/in/doanh-tran-515b61243/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -48,12 +42,10 @@
 ---
 
 ### 📊 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhimcaptin&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nhimcaptin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhimcaptin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="55%" />
-</div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30,40&height=90&section=footer" width="100%" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhimcaptin&theme=tokyonight&hide_border=true&background=0D1117" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhimcaptin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495" height="195" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhimcaptin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495" height="165" />
+</p>
