@@ -43,9 +43,9 @@
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhimcaptin&theme=tokyonight&hide_border=true&background=0D1117" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nhimcaptin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495" height="195" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nhimcaptin&theme=tokyonight&hide_border=true&background=0D1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nhimcaptin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495" width="49%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhimcaptin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nhimcaptin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&card_width=495" width="55%" />
 </p>
